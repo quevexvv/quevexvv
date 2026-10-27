@@ -44,7 +44,7 @@
 
 ## Связаться со мной
 
-- Telegram: [@qwerqwwreew](https://t.me/qwerqwwreew)
+- Telegram: [@qwerqwwreew](https://t.me/quevexvv)
 - Почта: voronin.vv.08@gmail.com
 
 Открыт к стажировкам, командной работе и новым проектам!

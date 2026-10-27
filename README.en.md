@@ -44,7 +44,7 @@ When I encounter a problem, I try not to rely on a temporary workaround. Instead
 
 ## Contact Me
 
-- Telegram: [@qwerqwwreew](https://t.me/qwerqwwreew)
+- Telegram: [@qwerqwwreew](https://t.me/quevexvv)
 - Email: voronin.vv.08@gmail.com
 
 Open to internships, team projects, and new opportunities!

@@ -19,6 +19,7 @@ When I encounter a problem, I try not to rely on a temporary workaround. Instead
 | [Gemini CLI](https://github.com/quevexvv/Gemini_CLI) | A Gemini-powered CLI assistant for working with code and files. It can analyze projects, execute confirmed commands and file changes, perform web searches, handle attachments, and store conversations. The server side is built with FastAPI, with data stored through Supabase/PostgreSQL |
 | [System Monitor](https://github.com/quevexvv/System-Monitor) | A Python desktop application for monitoring system parameters in real time on Linux |
 | [Tail Thief](https://github.com/quevexvv/FunFlow-Game) | A team Unity game created for the FunFlow × Tomsk Polytechnic University game jam: a beaver thief, a museum heist, three levels, and sliding physics. I was responsible for the game core, scene integration, and building the game |
+| [Clean Timetable](https://github.com/quevexvv/clean-timetable) | A Firefox and Chromium browser extension that hides unwanted classes from the Tomsk Polytechnic University timetable with recurring rules and one-off skips |
 
 ## Tech Stack
 
